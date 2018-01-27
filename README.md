@@ -20,7 +20,9 @@ unexpected, the laptop will POST using random time: on power on, the hdd and coo
 presumed the bug is related to intel SPI bug, but not sure. Bios upgrade not work at this time (2018.01.27).
 
 
-3. asus S15  i7
+3. asus S15  System Model	X510UQR
+Processor	Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, 1992 Mhz, 4 Core(s), 8 Logical Processor(s)
+
 
 no issues at this time. It support maximum memory for the processor (32GB)
 also it support both SATA and M2 SSD, curently 2TB SATA and 1TB M2
