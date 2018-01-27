@@ -1,7 +1,7 @@
 # laptop_issues
 issues found with some laptops i have used
 
-1. asus n55sf, i5 processor.
+1. asus n55sf, i5-2410 processor.
 -it is expected to accept only 8GB RAM but 16GB it will work wheel 
 
  -under linux audio is partial working on old kernels (less than 4.0.x ) (see archlinux info about implementation status ). there are also some issues with nvidia 555M - possible fixed in recent kernels
