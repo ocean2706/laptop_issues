@@ -24,6 +24,6 @@ presumed the bug is related to intel SPI bug, but not sure. Bios upgrade not wor
 Processor	Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, 1992 Mhz, 4 Core(s), 8 Logical Processor(s)
 
 
-no issues at this time. It support maximum memory for the processor (32GB)
-also it support both SATA and M2 SSD, curently 2TB SATA and 1TB M2
+no issues at this time.  the maximum memory for the processor can be installed (32GB).
+It have support for  both SATA and M2 SSD, curently 2TB SATA and 1TB M2
 
